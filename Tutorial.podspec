@@ -37,7 +37,7 @@ Pod::Spec.new do |spec|
 
   # spec.source       = { :git => "http://EXAMPLE/Tutorial.git", :tag => "#{spec.version}" }
 
-  spec.source = { :git => "https://github.com/kaimu89/framework.git", :tag => "#{s.version}" }
+  spec.source = { :git => "https://github.com/kaimu89/framework.git", :tag => "#{spec.version}" }
 
   spec.source_files  = "Tutorial"
 #   spec.exclude_files = "Classes/Exclude"
