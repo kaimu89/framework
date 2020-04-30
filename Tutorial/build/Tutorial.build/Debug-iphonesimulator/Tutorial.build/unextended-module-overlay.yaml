@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/okamura/Library/Developer/Xcode/DerivedData/Tutorial-bpamfswdexgrxvgxhlqeooqoqkbj/Build/Products/Debug-iphonesimulator/Tutorial.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/okamura/PROJECT/Tutorial/build/Tutorial.build/Debug-iphonesimulator/Tutorial.build/unextended-module.modulemap",
+    }]
+  }]
+}

@@ -1,0 +1,11 @@
+framework module Tutorial {
+  umbrella header "Tutorial.h"
+
+  export *
+  module * { export * }
+}
+
+module Tutorial.Swift {
+    header "Tutorial-Swift.h"
+    requires objc
+}

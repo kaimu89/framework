@@ -1,0 +1,10 @@
+framework module Tutorial {
+  umbrella header "Tutorial.h"
+
+  export *
+  module * { export * }
+}
+
+module Tutorial.__Swift {
+    exclude header "Tutorial-Swift.h"
+}
